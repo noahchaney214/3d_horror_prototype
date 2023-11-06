@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://diusmhmiu7bke"
+path="res://.godot/imported/Oak_Tree_Autumn.obj-b236ee727012b00ed90a178496a7d983.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Oak_Tree_Autumn.obj-b236ee727012b00ed90a178496a7d983.mesh"]
+
+source_file="res://Assets/Nature Pack Low Poly By RgsDev/OBJ/Trees/Oak_Tree_Autumn.obj"
+dest_files=["res://.godot/imported/Oak_Tree_Autumn.obj-b236ee727012b00ed90a178496a7d983.mesh", "res://.godot/imported/Oak_Tree_Autumn.obj-b236ee727012b00ed90a178496a7d983.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

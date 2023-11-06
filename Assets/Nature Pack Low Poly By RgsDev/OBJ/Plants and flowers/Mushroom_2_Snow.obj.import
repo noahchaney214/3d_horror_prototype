@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cdgi82e41uvk5"
+path="res://.godot/imported/Mushroom_2_Snow.obj-e771e0c16a4afc8d4b1aaf252f52fb95.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Mushroom_2_Snow.obj-e771e0c16a4afc8d4b1aaf252f52fb95.mesh"]
+
+source_file="res://Assets/Nature Pack Low Poly By RgsDev/OBJ/Plants and flowers/Mushroom_2_Snow.obj"
+dest_files=["res://.godot/imported/Mushroom_2_Snow.obj-e771e0c16a4afc8d4b1aaf252f52fb95.mesh", "res://.godot/imported/Mushroom_2_Snow.obj-e771e0c16a4afc8d4b1aaf252f52fb95.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

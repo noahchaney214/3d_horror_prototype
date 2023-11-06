@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cdv428npk1jf6"
+path="res://.godot/imported/Terrain_Part_Plane_18.obj-276402c1e2d9b53ac8711021ff7b3291.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Terrain_Part_Plane_18.obj-276402c1e2d9b53ac8711021ff7b3291.mesh"]
+
+source_file="res://Assets/Nature Pack Low Poly By RgsDev/OBJ/Terrain/Terrain_Part_Plane_18.obj"
+dest_files=["res://.godot/imported/Terrain_Part_Plane_18.obj-276402c1e2d9b53ac8711021ff7b3291.mesh", "res://.godot/imported/Terrain_Part_Plane_18.obj-276402c1e2d9b53ac8711021ff7b3291.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

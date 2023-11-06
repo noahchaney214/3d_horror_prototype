@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cshn1hwiw4yys"
+path="res://.godot/imported/Palm_Tree_Spring.obj-a775cb7704495bed5462b11a0b84ff86.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Palm_Tree_Spring.obj-a775cb7704495bed5462b11a0b84ff86.mesh"]
+
+source_file="res://Assets/Nature Pack Low Poly By RgsDev/OBJ/Trees/Palm_Tree_Spring.obj"
+dest_files=["res://.godot/imported/Palm_Tree_Spring.obj-a775cb7704495bed5462b11a0b84ff86.mesh", "res://.godot/imported/Palm_Tree_Spring.obj-a775cb7704495bed5462b11a0b84ff86.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

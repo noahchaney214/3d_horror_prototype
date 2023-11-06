@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6kyd25g0or3s"
+path="res://.godot/imported/Simple_Tree_6.obj-3a887099d37a7b3fb8a9493ab00e0a99.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Simple_Tree_6.obj-3a887099d37a7b3fb8a9493ab00e0a99.mesh"]
+
+source_file="res://Assets/Nature Pack Low Poly By RgsDev/OBJ/Trees/Simple_Tree_6.obj"
+dest_files=["res://.godot/imported/Simple_Tree_6.obj-3a887099d37a7b3fb8a9493ab00e0a99.mesh", "res://.godot/imported/Simple_Tree_6.obj-3a887099d37a7b3fb8a9493ab00e0a99.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

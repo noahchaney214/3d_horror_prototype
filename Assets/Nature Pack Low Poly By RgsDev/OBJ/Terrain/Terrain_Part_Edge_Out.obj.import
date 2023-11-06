@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxiqe8q6te6x5"
+path="res://.godot/imported/Terrain_Part_Edge_Out.obj-eab3783eff3a45f7516c7f950e0e8fea.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Terrain_Part_Edge_Out.obj-eab3783eff3a45f7516c7f950e0e8fea.mesh"]
+
+source_file="res://Assets/Nature Pack Low Poly By RgsDev/OBJ/Terrain/Terrain_Part_Edge_Out.obj"
+dest_files=["res://.godot/imported/Terrain_Part_Edge_Out.obj-eab3783eff3a45f7516c7f950e0e8fea.mesh", "res://.godot/imported/Terrain_Part_Edge_Out.obj-eab3783eff3a45f7516c7f950e0e8fea.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

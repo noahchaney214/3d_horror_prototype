@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fafbj33s4d24"
+path="res://.godot/imported/Clouds_1.obj-6d1e2e6ce13a571593969f9b3ef3039e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Clouds_1.obj-6d1e2e6ce13a571593969f9b3ef3039e.mesh"]
+
+source_file="res://Assets/Nature Pack Low Poly By RgsDev/OBJ/Clouds/Clouds_1.obj"
+dest_files=["res://.godot/imported/Clouds_1.obj-6d1e2e6ce13a571593969f9b3ef3039e.mesh", "res://.godot/imported/Clouds_1.obj-6d1e2e6ce13a571593969f9b3ef3039e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

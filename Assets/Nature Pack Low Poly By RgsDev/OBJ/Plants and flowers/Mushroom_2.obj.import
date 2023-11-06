@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d4f40kltv4k0u"
+path="res://.godot/imported/Mushroom_2.obj-2e51a5cb39489594aff23d4a9886e7bc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Mushroom_2.obj-2e51a5cb39489594aff23d4a9886e7bc.mesh"]
+
+source_file="res://Assets/Nature Pack Low Poly By RgsDev/OBJ/Plants and flowers/Mushroom_2.obj"
+dest_files=["res://.godot/imported/Mushroom_2.obj-2e51a5cb39489594aff23d4a9886e7bc.mesh", "res://.godot/imported/Mushroom_2.obj-2e51a5cb39489594aff23d4a9886e7bc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

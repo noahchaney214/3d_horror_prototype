@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bqld7670u6lr4"
+path="res://.godot/imported/Tree_2_Spring.obj-f3b06f5cf685f450ece73ef02012ef4d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Tree_2_Spring.obj-f3b06f5cf685f450ece73ef02012ef4d.mesh"]
+
+source_file="res://Assets/Nature Pack Low Poly By RgsDev/OBJ/Trees/Tree_2_Spring.obj"
+dest_files=["res://.godot/imported/Tree_2_Spring.obj-f3b06f5cf685f450ece73ef02012ef4d.mesh", "res://.godot/imported/Tree_2_Spring.obj-f3b06f5cf685f450ece73ef02012ef4d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
